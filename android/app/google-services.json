@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035595928858",
+    "project_id": "krutik-demo",
+    "storage_bucket": "krutik-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035595928858:android:8774b106322747f0d6c8a3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035595928858-qdtp722jdnlfjo3qd1p42mlcfr2g1m1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZFaCdcJ2TlTNN5VOX94GpWwTxCo8AoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035595928858-qdtp722jdnlfjo3qd1p42mlcfr2g1m1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
